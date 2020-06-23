@@ -128,7 +128,7 @@ function Home({classes, error}) {
                             variant="contained"
                             className={classes.submit}
                             startIcon={<ExitToAppIcon />}
-                            href="http://localhost:3000/register"
+                            href="https://wallet-front.herokuapp.com/register"
                         >
                             Registrarme
                         </Button>
